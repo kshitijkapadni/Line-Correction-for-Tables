@@ -5,4 +5,4 @@
 ### Image with Broken Lines
 ![Broken](https://github.com/kshitijkapadni/Line-Correction-for-Tables/blob/master/Broken/broken1.PNG)
 ### Fixed Image
-![Fixed](https://github.com/kshitijkapadni/Line-Correction-for-Tables/blob/master/Fixed/fix1.PNG)
+![Fixed](https://github.com/kshitijkapadni/Line-Correction-for-Tables/blob/master/Fixed/fix1.jpg)
