@@ -7,3 +7,16 @@ Simple Image processing techniques using OpenCV to correct the broken lines in i
 ![Broken](https://github.com/kshitijkapadni/Line-Correction-for-Tables/blob/master/Broken/broken1.PNG)
 ### Fixed Image
 ![Fixed](https://github.com/kshitijkapadni/Line-Correction-for-Tables/blob/master/Fixed/fix1.jpg)
+
+##Example 2:
+### Image with Broken Lines
+![Broken](https://github.com/kshitijkapadni/Line-Correction-for-Tables/blob/master/Broken/broken2.PNG)
+### Fixed Image
+![Fixed](https://github.com/kshitijkapadni/Line-Correction-for-Tables/blob/master/Fixed/fix2.jpg)
+
+##Example 3:
+### Image with Broken Lines
+![Broken](https://github.com/kshitijkapadni/Line-Correction-for-Tables/blob/master/Broken/broken3.PNG)
+### Fixed Image
+![Fixed](https://github.com/kshitijkapadni/Line-Correction-for-Tables/blob/master/Fixed/fix3.jpg)
+
